@@ -1,0 +1,23 @@
+/*css 2 file*/
+h1 {
+  color:#ED263B;
+  text-align:center;
+}
+h2 {
+  color:#F7610B;
+  font-style: bold;
+  text-align: center;
+}
+p {
+  font-family: times;
+}
+
+ol {
+  line-height: 40px;
+  color:#6826ED;
+}
+ul {
+  color: #E8D413;
+  line-height: 60px;
+}
+/*+254712317212*/
